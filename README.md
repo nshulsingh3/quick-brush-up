@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/nshulsingh3/quick-brush-up](https://github.com/nshulsingh3/quick-brush-up)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://admirable-zabaione-9e0761.netlify.app](https://admirable-zabaione-9e0761.netlify.app)
 
 ### Built with
 
@@ -57,6 +57,6 @@ This issue got highlighted when I noticed a scroll bar coming after giving 100vh
 
 ## Author
 
-- Website - [Anshul Singh](https://www.your-site.com)
+- Website - [Anshul Singh](https://marvelous-macaron-a3a105.netlify.app/)
 - Frontend Mentor - [@nshulsingh3](https://www.frontendmentor.io/profile/nshulsingh3)
 - Twitter - [@nshulsingh3](https://www.twitter.com/nshulsingh3)
